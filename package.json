@@ -1,7 +1,7 @@
 {
   "name": "test-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://eugeneim.github.io/test-web/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
